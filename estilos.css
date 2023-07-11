@@ -8,7 +8,7 @@ body {
 header {
     width: auto;
     height: 150px;
-    background-color: #D9A05B;
+    background-color: #e19b72;
 }
 
 .gatologo{
@@ -36,6 +36,23 @@ header {
     padding: 10px;
     padding-right: 30px;
     display: inline-block;
+}
+
+.datos-curiosos{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 275%;
+}
+
+.datoss{
+    background-color: #F2D0A7;
+    font-size: x-large;
+    height: 500px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 20px;
 }
 
 .botones {
